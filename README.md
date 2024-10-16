@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oscar
 - 👀 I’m interested in Aviation, Ham Radio, Photograpy, Rocketry, Astronomy
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Julia
 - 💞️ I’m looking to collaborate on Klog
 - 📫 How to reach me via eMail
 
